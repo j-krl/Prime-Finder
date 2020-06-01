@@ -1,0 +1,1 @@
+These prime finders were the first programs I wrote when I started getting serious about programming. The iterations were to increasing optimization, which I did by over 1000x from the original to version 5b..
